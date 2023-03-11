@@ -1,0 +1,5 @@
+# Project exclude paths
+/personal-account/target/
+/stock-market/target/
+.idea
+*.iml
